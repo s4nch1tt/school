@@ -1,0 +1,24 @@
+{
+  "global": {
+    "siteTitle": "Delhi Public School Keoti - Tech Edition",
+    "theme": "dark",
+    "primaryColor": "#0ea5e9"
+  },
+  "pages": [
+    { "id": "p-home", "slug": "index", "title": "Home", "content": "Welcome to the premium tech school." },
+    { "id": "p-about", "slug": "about", "title": "About", "content": "DPS Keoti is a leading tech-forward school." }
+  ],
+  "staff": [
+    { "id": "chairman", "name": "Chairman", "role": "Chairman", "bio": "", "image": "../images/chairman.jpg" },
+    { "id": "director", "name": "Director", "role": "Director", "bio": "", "image": "../images/director.jpg" },
+    { "id": "principal", "name": "Principal", "role": "Principal", "bio": "", "image": "../images/principal.jpg" }
+  ],
+  "slider": [
+    "../images/slider1.jpg",
+    "../images/slider2.jpg",
+    "../images/slider3.jpg",
+    "../images/slider4.jpg",
+    "../images/slider5.jpg"
+  ],
+  "assets": []
+}

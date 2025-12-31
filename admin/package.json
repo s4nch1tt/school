@@ -1,0 +1,13 @@
+{
+  "name": "admin-backend",
+  "version": "1.0.0",
+  "description": "Admin backend for DPS Keoti admin panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node static-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
